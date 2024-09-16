@@ -70,7 +70,7 @@ The model is trained using features:
 
 ### Evaluation
 
-The model is evaluated using precision score on the test set. Initial precision score is around 0.75.
+The model is evaluated using precision score on the test set. Initial precision score is around 0.52.
 
 ## Backtesting
 
